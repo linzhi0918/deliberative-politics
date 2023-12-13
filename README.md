@@ -1,3 +1,5 @@
+This repository reproduces deliberativeness classifiers from https://github.com/kj2013/deliberative-politics
+
 # Deliberative-politics 
 
 This repository contains the data and materials related to Twitter Deliberative Politics and the CLAPTON (Corpus for the Linguistic Analysis of Political Talk ONline) datasets of social media posts annotated for facets of discussion quality.
